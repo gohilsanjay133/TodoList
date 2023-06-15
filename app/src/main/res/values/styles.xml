@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Bloco.ToolbarNavigationButton" parent="Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="tint">?colorOnSurface</item>
+    </style>
+
+    <style name="DatePickerDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/purple_500</item>
+    </style>
+</resources>

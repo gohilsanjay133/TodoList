@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.todo.list.app-mergeDebugResources-45:/layout/activity_add_task.xml",
+        "source": "com.todo.list.app-main-48:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.todo.list.app-mergeDebugResources-45:/layout/dialog_delete_todo_confirmation.xml",
+        "source": "com.todo.list.app-main-48:/layout/dialog_delete_todo_confirmation.xml"
+    },
+    {
+        "merged": "com.todo.list.app-mergeDebugResources-45:/layout/item_todo_list.xml",
+        "source": "com.todo.list.app-main-48:/layout/item_todo_list.xml"
+    },
+    {
+        "merged": "com.todo.list.app-mergeDebugResources-45:/layout/layout_toolbar.xml",
+        "source": "com.todo.list.app-main-48:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.todo.list.app-mergeDebugResources-45:/layout/activity_todo_list.xml",
+        "source": "com.todo.list.app-main-48:/layout/activity_todo_list.xml"
+    }
+]

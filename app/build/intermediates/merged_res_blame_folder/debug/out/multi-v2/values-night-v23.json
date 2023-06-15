@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.todo.list.app-mergeDebugResources-44:/values-night-v23/values-night-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/Project/Android/TodoList/app/src/main/res/values-night-v23/themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "103",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "864"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "694"
+                    }
+                }
+            ]
+        }
+    ]
+}

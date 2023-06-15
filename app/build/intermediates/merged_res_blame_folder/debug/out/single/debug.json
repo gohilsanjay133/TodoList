@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-hdpi_ic_no_chat_bg.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-hdpi/ic_no_chat_bg.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_ic_back.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-ldpi_ic_more.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-ldpi/ic_more.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_ic_delete_todo.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/ic_delete_todo.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_background_delete_todo_dialog.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/background_delete_todo_dialog.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-hdpi_ic_more.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-hdpi/ic_more.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-xxhdpi_ic_no_chat_bg.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-xxhdpi/ic_no_chat_bg.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-mdpi_ic_more.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-mdpi/ic_more.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
+        "source": "com.todo.list.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_todo_list_background.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/todo_list_background.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/layout_layout_toolbar.xml.flat",
+        "source": "com.todo.list.app-main-48:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/font_rubik_regular.ttf.flat",
+        "source": "com.todo.list.app-main-48:/font/rubik_regular.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-anydpi-v24_ic_more.xml.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-anydpi-v24/ic_more.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/font_roboto_regular.ttf.flat",
+        "source": "com.todo.list.app-main-48:/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-xxhdpi_ic_more.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-xxhdpi/ic_more.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/layout_item_todo_list.xml.flat",
+        "source": "com.todo.list.app-main-48:/layout/item_todo_list.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/font_roboto_medium.ttf.flat",
+        "source": "com.todo.list.app-main-48:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-ldpi_ic_no_chat_bg.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-ldpi/ic_no_chat_bg.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-xxxhdpi_ic_more.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-xxxhdpi/ic_more.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_ic_checked.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/ic_checked.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/layout_activity_add_task.xml.flat",
+        "source": "com.todo.list.app-main-48:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-mdpi_ic_no_chat_bg.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-mdpi/ic_no_chat_bg.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/layout_dialog_delete_todo_confirmation.xml.flat",
+        "source": "com.todo.list.app-main-48:/layout/dialog_delete_todo_confirmation.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_cancel_button_background.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/cancel_button_background.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-xhdpi_ic_no_chat_bg.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-xhdpi/ic_no_chat_bg.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-anydpi-v24_ic_no_chat_bg.xml.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-anydpi-v24/ic_no_chat_bg.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/menu_more_option.xml.flat",
+        "source": "com.todo.list.app-main-48:/menu/more_option.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/layout_activity_todo_list.xml.flat",
+        "source": "com.todo.list.app-main-48:/layout/activity_todo_list.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/xml_backup_rules.xml.flat",
+        "source": "com.todo.list.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_button_background.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_ic_unchecked.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/ic_unchecked.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-xhdpi_ic_more.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-xhdpi/ic_more.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_ic_add_task.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/ic_add_task.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable-xxxhdpi_ic_no_chat_bg.png.flat",
+        "source": "com.todo.list.app-pngs-42:/drawable-xxxhdpi/ic_no_chat_bg.png"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-46:/drawable_checkbox_background.xml.flat",
+        "source": "com.todo.list.app-main-48:/drawable/checkbox_background.xml"
+    }
+]

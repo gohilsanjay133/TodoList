@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.todo.list.app-mergeStagingDebugResources-40:/layout/activity_main.xml",
+        "source": "com.todo.list.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.todo.list.app-mergeStagingDebugResources-40:/layout/layout_toolbar.xml",
+        "source": "com.todo.list.app-main-43:/layout/layout_toolbar.xml"
+    }
+]

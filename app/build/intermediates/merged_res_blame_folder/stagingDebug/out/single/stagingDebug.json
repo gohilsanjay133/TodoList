@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.todo.list.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.todo.list.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/font_nunito_sans_extra_light.ttf.flat",
+        "source": "com.todo.list.app-main-43:/font/nunito_sans_extra_light.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/drawable_ic_back.xml.flat",
+        "source": "com.todo.list.app-main-43:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/font_nunito_sans_black.ttf.flat",
+        "source": "com.todo.list.app-main-43:/font/nunito_sans_black.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.todo.list.app-staging-37:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/font_nunito_ans_semi_bold.ttf.flat",
+        "source": "com.todo.list.app-main-43:/font/nunito_ans_semi_bold.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.todo.list.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/layout_layout_toolbar.xml.flat",
+        "source": "com.todo.list.app-main-43:/layout/layout_toolbar.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/font_nunito_sans_regular.ttf.flat",
+        "source": "com.todo.list.app-main-43:/font/nunito_sans_regular.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/font_nunito_sans_bold.ttf.flat",
+        "source": "com.todo.list.app-main-43:/font/nunito_sans_bold.ttf"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.todo.list.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.todo.list.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.todo.list.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.todo.list.app-merged_res-41:/drawable_button_background.xml.flat",
+        "source": "com.todo.list.app-main-43:/drawable/button_background.xml"
+    }
+]

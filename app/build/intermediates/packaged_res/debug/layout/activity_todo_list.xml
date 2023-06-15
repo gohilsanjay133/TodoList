@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.todolist.TodoListActivity">
+
+    <RelativeLayout
+        android:id="@+id/rlToolbarHeader"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_120sdp"
+        android:background="@color/task_list_background_color"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <include
+            android:id="@+id/includeLayToolbar"
+            layout="@layout/layout_toolbar" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_21sdp"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/task_list"
+            android:textColor="@color/toolbar_title_color"
+            android:textSize="@dimen/_20ssp" />
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvTodoList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_16sdp"
+        android:background="@drawable/todo_list_background"
+        android:visibility="gone"
+        app:layout_constraintTop_toBottomOf="@+id/rlToolbarHeader"
+        tools:listitem="@layout/item_todo_list" />
+
+    <ImageView
+        android:id="@+id/imgNoTodoList"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_150sdp"
+        android:src="@drawable/ic_no_chat_bg"
+        android:visibility="gone"
+        android:layout_marginTop="@dimen/_60sdp"
+        app:layout_constraintEnd_toEndOf="@+id/rvTodoList"
+        app:layout_constraintStart_toStartOf="@+id/rvTodoList"
+        app:layout_constraintTop_toBottomOf="@+id/rlToolbarHeader"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/tvTaskFound"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:fontFamily="@font/rubik_regular"
+        android:text="@string/no_task_yet"
+        android:textColor="@color/toolbar_title_color"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/rvTodoList"
+        app:layout_constraintStart_toStartOf="@+id/rvTodoList"
+        app:layout_constraintTop_toBottomOf="@+id/imgNoTodoList" />
+
+    <ImageView
+        android:id="@+id/fabAddTask"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_margin="@dimen/_5sdp"
+        android:elevation="@dimen/_7sdp"
+        android:src="@drawable/ic_add_task"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="ContentDescription" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
